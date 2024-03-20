@@ -1,0 +1,17 @@
+C:\Users\wathi\source\repos\myCompiler\myCompiler\bin\Debug\net6.0-windows\myCompiler.exe
+C:\Users\wathi\source\repos\myCompiler\myCompiler\bin\Debug\net6.0-windows\myCompiler.deps.json
+C:\Users\wathi\source\repos\myCompiler\myCompiler\bin\Debug\net6.0-windows\myCompiler.runtimeconfig.json
+C:\Users\wathi\source\repos\myCompiler\myCompiler\bin\Debug\net6.0-windows\myCompiler.dll
+C:\Users\wathi\source\repos\myCompiler\myCompiler\bin\Debug\net6.0-windows\myCompiler.pdb
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.vbproj.AssemblyReference.cache
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.Form1.resources
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.vbproj.GenerateResource.cache
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.AssemblyInfoInputs.cache
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.AssemblyInfo.vb
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.vbproj.CoreCompileInputs.cache
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.dll
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\refint\myCompiler.dll
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.pdb
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\myCompiler.genruntimeconfig.cache
+C:\Users\wathi\source\repos\myCompiler\myCompiler\obj\Debug\net6.0-windows\ref\myCompiler.dll
